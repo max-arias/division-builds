@@ -1,0 +1,66 @@
+export default {
+  "Red, White and Blue": {
+    image: "https://imgur.com/9sjUIvm.png",
+    set: "True Patriot",
+  },
+  "Rules of Engagement": {
+    image: "https://imgur.com/cFbSTBE.png",
+    set: "Ongoing Directive",
+  },
+  "Feedback Loop": {
+    image: "https://imgur.com/D2KIns0.png",
+    set: "Hard Wired",
+  },
+  "Hostile Negotiations": {
+    image: "https://imgur.com/54leQtM.png",
+    set: "Negotiator's Dilemma",
+  },
+  "Aggressive Recon": {
+    image: "https://imgur.com/xNBheFR.png",
+    set: "Tip of the Spear",
+  },
+  "Dead Man's Hand": {
+    image: "https://imgur.com/xNrYZ1z.png",
+    set: "Aces & Eights",
+  },
+  "Striker's Gamble": {
+    image: "https://imgur.com/q6cMGhq.png",
+    set: "Striker's Battlegear",
+  },
+  "Hackstep Protocol": {
+    image: "https://imgur.com/nUX0clF.png",
+    set: "System Corruption",
+  },
+  "Indirect Transmission": {
+    image: "https://imgur.com/ys5x1OH.png",
+    set: "Eclipse Protocol",
+  },
+  "Ground Control": {
+    image: "https://imgur.com/0Ink0OW.png",
+    set: "Future Initiative",
+  },
+  "Makeshift Repairs": {
+    image: "https://imgur.com/iBGqR1C.png",
+    set: "Foundry Bulwark",
+  },
+  "Apex Predator": {
+    image: "https://imgur.com/csfMXhu.png",
+    set: "Hunter's Fury",
+  },
+  "Tend and Befriend": {
+    image: "https://imgur.com/U2A1G0s.png",
+    set: "Rigger",
+  },
+  "From the Shadows\nInto the Light": {
+    image: "https://imgur.com/kBdYVcO.png",
+    set: "Umbra Initiative",
+  },
+  Heartstopper: {
+    image: "https://imgur.com/dpIlV1o.png",
+    set: "Heartbreaker",
+  },
+  Charging: {
+    image: "https://imgur.com/OMh1vFZ.png",
+    set: "The Cavalier",
+  },
+};
