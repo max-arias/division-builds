@@ -1,5 +1,4 @@
-export default {
-  Proficient: "https://imgur.com/1nZUpa9.png",
+{
   "0": "https://imgur.com/U2m21aD.png",
   "1": "https://imgur.com/p3PN15Z.png",
   "2": "https://imgur.com/VVjJRwh.png",
@@ -31,4 +30,5 @@ export default {
   "28": "https://imgur.com/HmzoaqE.png",
   "29": "https://imgur.com/bW6POtF.png",
   "30": "https://imgur.com/I4ZK6tT.png",
-};
+  "Proficient": "https://imgur.com/1nZUpa9.png"
+}

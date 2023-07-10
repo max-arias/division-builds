@@ -1,0 +1,982 @@
+{
+  "5.11 Tactical": {
+    "brand": "5.11 Tactical",
+    "mask": "Catharsis",
+    "chest": "Ridgeway's Pride",
+    "holster": "Dodge City",
+    "backpack": "Acosta's Go Bag",
+    "gloves": "Bloody Knuckles",
+    "kneepads": "NinjaBike Kneepads",
+    "icon": "https://imgur.com/QjXxYFz.png"
+  },
+  "Airaldi Holdings": {
+    "brand": "Airaldi Holdings",
+    "mask": "Coyote's Mask",
+    "chest": "Tardigrade",
+    "holster": "Imperial Dynasty",
+    "backpack": "Memento",
+    "gloves": "BTSU Data Gloves",
+    "kneepads": "Sawyer's Kneepads",
+    "icon": "https://imgur.com/VAgrPoZ.png"
+  },
+  "Alps Summit Armament": {
+    "brand": "Alps Summit Armament",
+    "mask": "Vile",
+    "chest": "Caesar's Guard",
+    "holster": "Shocker Punch",
+    "backpack": "NinjaBike Backpack",
+    "gloves": "Contractor's Gloves",
+    "kneepads": "Emperor's Guard",
+    "icon": "https://imgur.com/goxOzn7.png"
+  },
+  "Brazos de Arcabuz": {
+    "brand": "Brazos de Arcabuz",
+    "mask": "Chill Out",
+    "chest": "Chainkiller",
+    "holster": "Waveform",
+    "backpack": "Anarchist's Cookbook",
+    "gloves": "Deathgrips",
+    "kneepads": "Fox's Prayer",
+    "icon": "https://imgur.com/eNrI2Cf.png"
+  },
+  "Walker, Harris & Co.": {
+    "brand": "Walker, Harris & Co.",
+    "mask": "Night Watcher",
+    "chest": "Cherished",
+    "holster": "Ammo Dump Holster",
+    "backpack": "Battery Pack",
+    "gloves": "Firm Handshake",
+    "kneepads": "5.11 Tactical",
+    "icon": "https://imgur.com/x8fFUaJ.png"
+  },
+  "Empress International": {
+    "brand": "Empress International",
+    "mask": "Punch Drunk",
+    "chest": "Closer",
+    "holster": "Claws Out",
+    "backpack": "Devil's Due",
+    "gloves": "Motherly Love",
+    "kneepads": "Airaldi Holdings",
+    "icon": "https://imgur.com/2aEVx7l.png"
+  },
+  "Overlord Armaments": {
+    "brand": "Overlord Armaments",
+    "mask": "The Hollow Man",
+    "chest": "Door-Kicker's Knock",
+    "holster": "Forge",
+    "backpack": "Force Multiplier",
+    "gloves": "5.11 Tactical",
+    "kneepads": "Alps Summit Armament",
+    "icon": "https://imgur.com/4TKwj4N.png"
+  },
+  "Gila Guard": {
+    "brand": "Gila Guard",
+    "mask": "5.11 Tactical",
+    "chest": "Everyday Carrier",
+    "holster": "Picaro's Holster",
+    "backpack": "Hermano",
+    "gloves": "Airaldi Holdings",
+    "kneepads": "Badger Tuff",
+    "icon": "https://imgur.com/0o599c6.png"
+  },
+  "Grupo Sombra S.A.": {
+    "brand": "Grupo Sombra S.A.",
+    "mask": "Airaldi Holdings",
+    "chest": "Ferocious Calm",
+    "holster": "5.11 Tactical",
+    "backpack": "Lavoisier",
+    "gloves": "Alps Summit Armament",
+    "kneepads": "Belstone Armory",
+    "icon": "https://imgur.com/w2ldYtE.png"
+  },
+  "Golan Gear Ltd": {
+    "brand": "Golan Gear Ltd",
+    "mask": "Alps Summit Armament",
+    "chest": "Henri",
+    "holster": "Airaldi Holdings",
+    "backpack": "Liquid Engineer",
+    "gloves": "Badger Tuff",
+    "kneepads": "Brazos de Arcabuz",
+    "icon": "https://imgur.com/56oI8CR.png"
+  },
+  "Sokolov Concern": {
+    "brand": "Sokolov Concern",
+    "mask": "Badger Tuff",
+    "chest": "Hunter-Killer",
+    "holster": "Alps Summit Armament",
+    "backpack": "Matador",
+    "gloves": "Belstone Armory",
+    "kneepads": "Česká Výroba s.r.o",
+    "icon": "https://imgur.com/e6Xy8ok.png"
+  },
+  "Douglas & Harding": {
+    "brand": "Douglas & Harding",
+    "mask": "Belstone Armory",
+    "chest": "Pointman",
+    "holster": "Badger Tuff",
+    "backpack": "Percussive Maintenance",
+    "gloves": "Brazos de Arcabuz",
+    "kneepads": "China Light Industries",
+    "icon": "https://imgur.com/GQCp9sM.png"
+  },
+  "Česká Výroba s.r.o": {
+    "brand": "Česká Výroba s.r.o",
+    "mask": "Brazos de Arcabuz",
+    "chest": "Pristine Example",
+    "holster": "Belstone Armory",
+    "backpack": "Strategic Alignment",
+    "gloves": "Česká Výroba s.r.o",
+    "kneepads": "Douglas & Harding",
+    "icon": "https://imgur.com/Lfc0IBi.png"
+  },
+  "China Light Industries": {
+    "brand": "China Light Industries",
+    "mask": "Česká Výroba s.r.o",
+    "chest": "The Sacrifice",
+    "holster": "Brazos de Arcabuz",
+    "backpack": "The Courier",
+    "gloves": "China Light Industries",
+    "kneepads": "Electrique",
+    "icon": "https://imgur.com/tqxUOA4.png"
+  },
+  "Badger Tuff": {
+    "brand": "Badger Tuff",
+    "mask": "China Light Industries",
+    "chest": "Vedmedytsya",
+    "holster": "Česká Výroba s.r.o",
+    "backpack": "The Gift",
+    "gloves": "Douglas & Harding",
+    "kneepads": "Empress International",
+    "icon": "https://imgur.com/9oTt1ob.png"
+  },
+  "Hana-U Corporation": {
+    "brand": "Hana-U Corporation",
+    "mask": "Douglas & Harding",
+    "chest": "Zero F's",
+    "holster": "China Light Industries",
+    "backpack": "The Setup",
+    "gloves": "Electrique",
+    "kneepads": "Fenris Group AB",
+    "icon": "https://imgur.com/hlhNlX4.png"
+  },
+  "Fenris Group AB": {
+    "brand": "Fenris Group AB",
+    "mask": "Electrique",
+    "chest": "5.11 Tactical",
+    "holster": "Douglas & Harding",
+    "backpack": "5.11 Tactical",
+    "gloves": "Empress International",
+    "kneepads": "Gila Guard",
+    "icon": "https://imgur.com/S0siLGa.png"
+  },
+  "Providence Defense": {
+    "brand": "Providence Defense",
+    "mask": "Empress International",
+    "chest": "Airaldi Holdings",
+    "holster": "Electrique",
+    "backpack": "Airaldi Holdings",
+    "gloves": "Fenris Group AB",
+    "kneepads": "Golan Gear Ltd",
+    "icon": "https://imgur.com/0iigFnl.png"
+  },
+  "Petrov Defense Group": {
+    "brand": "Petrov Defense Group",
+    "mask": "Fenris Group AB",
+    "chest": "Alps Summit Armament",
+    "holster": "Empress International",
+    "backpack": "Alps Summit Armament",
+    "gloves": "Gila Guard",
+    "kneepads": "Grupo Sombra S.A.",
+    "icon": "https://imgur.com/N64w1Gk.png"
+  },
+  "Belstone Armory": {
+    "brand": "Belstone Armory",
+    "mask": "Gila Guard",
+    "chest": "Badger Tuff",
+    "holster": "Fenris Group AB",
+    "backpack": "Badger Tuff",
+    "gloves": "Golan Gear Ltd",
+    "kneepads": "Habsburg Guard",
+    "icon": "https://imgur.com/AKHndoc.png"
+  },
+  "Murakami Industries": {
+    "brand": "Murakami Industries",
+    "mask": "Golan Gear Ltd",
+    "chest": "Belstone Armory",
+    "holster": "Gila Guard",
+    "backpack": "Belstone Armory",
+    "gloves": "Grupo Sombra S.A.",
+    "kneepads": "Hana-U Corporation",
+    "icon": "https://imgur.com/0VVNFGL.png"
+  },
+  "Yaahl Gear": {
+    "brand": "Yaahl Gear",
+    "mask": "Grupo Sombra S.A.",
+    "chest": "Brazos de Arcabuz",
+    "holster": "Golan Gear Ltd",
+    "backpack": "Brazos de Arcabuz",
+    "gloves": "Habsburg Guard",
+    "kneepads": "Murakami Industries",
+    "icon": "https://imgur.com/8LZGBtg.png"
+  },
+  "Richter & Kaiser GmbH": {
+    "brand": "Richter & Kaiser GmbH",
+    "mask": "Habsburg Guard",
+    "chest": "Česká Výroba s.r.o",
+    "holster": "Grupo Sombra S.A.",
+    "backpack": "Česká Výroba s.r.o",
+    "gloves": "Hana-U Corporation",
+    "kneepads": "Overlord Armaments",
+    "icon": "https://imgur.com/u2VeQAJ.png"
+  },
+  "Wyvern Wear": {
+    "brand": "Wyvern Wear",
+    "mask": "Hana-U Corporation",
+    "chest": "China Light Industries",
+    "holster": "Habsburg Guard",
+    "backpack": "China Light Industries",
+    "gloves": "Murakami Industries",
+    "kneepads": "Petrov Defense Group",
+    "icon": "https://imgur.com/wryyKU4.png"
+  },
+  "True Patriot": {
+    "brand": "True Patriot",
+    "mask": "Murakami Industries",
+    "chest": "Douglas & Harding",
+    "holster": "Hana-U Corporation",
+    "backpack": "Douglas & Harding",
+    "gloves": "Overlord Armaments",
+    "kneepads": "Providence Defense",
+    "icon": "https://imgur.com/AYgcbvg.png"
+  },
+  "Ongoing Directive": {
+    "brand": "Ongoing Directive",
+    "mask": "Overlord Armaments",
+    "chest": "Electrique",
+    "holster": "Murakami Industries",
+    "backpack": "Electrique",
+    "gloves": "Petrov Defense Group",
+    "kneepads": "Richter & Kaiser GmbH",
+    "icon": "https://imgur.com/CIyZsjp.png"
+  },
+  "Hard Wired": {
+    "brand": "Hard Wired",
+    "mask": "Petrov Defense Group",
+    "chest": "Empress International",
+    "holster": "Overlord Armaments",
+    "backpack": "Empress International",
+    "gloves": "Providence Defense",
+    "kneepads": "Sokolov Concern",
+    "icon": "https://imgur.com/A6noL3X.png"
+  },
+  "Negotiator's Dilemma": {
+    "brand": "Negotiator's Dilemma",
+    "mask": "Providence Defense",
+    "chest": "Fenris Group AB",
+    "holster": "Petrov Defense Group",
+    "backpack": "Fenris Group AB",
+    "gloves": "Richter & Kaiser GmbH",
+    "kneepads": "Uzina Getica",
+    "icon": "https://imgur.com/d9kzMje.png"
+  },
+  "Tip of the Spear": {
+    "brand": "Tip of the Spear",
+    "mask": "Richter & Kaiser GmbH",
+    "chest": "Gila Guard",
+    "holster": "Providence Defense",
+    "backpack": "Gila Guard",
+    "gloves": "Sokolov Concern",
+    "kneepads": "Walker, Harris & Co.",
+    "icon": "https://imgur.com/8kLO0lp.png"
+  },
+  "Aces & Eights": {
+    "brand": "Aces & Eights",
+    "mask": "Sokolov Concern",
+    "chest": "Golan Gear Ltd",
+    "holster": "Richter & Kaiser GmbH",
+    "backpack": "Golan Gear Ltd",
+    "gloves": "Uzina Getica",
+    "kneepads": "Wyvern Wear",
+    "icon": "https://imgur.com/Zd5lvjB.png"
+  },
+  "Striker's Battlegear": {
+    "brand": "Striker's Battlegear",
+    "mask": "Uzina Getica",
+    "chest": "Grupo Sombra S.A.",
+    "holster": "Sokolov Concern",
+    "backpack": "Grupo Sombra S.A.",
+    "gloves": "Walker, Harris & Co.",
+    "kneepads": "Yaahl Gear",
+    "icon": "https://imgur.com/aszhbdT.png"
+  },
+  "System Corruption": {
+    "brand": "System Corruption",
+    "mask": "Walker, Harris & Co.",
+    "chest": "Habsburg Guard",
+    "holster": "Uzina Getica",
+    "backpack": "Habsburg Guard",
+    "gloves": "Wyvern Wear",
+    "kneepads": "Aces & Eights",
+    "icon": "https://imgur.com/s1SwnhO.png"
+  },
+  "Eclipse Protocol": {
+    "brand": "Eclipse Protocol",
+    "mask": "Wyvern Wear",
+    "chest": "Hana-U Corporation",
+    "holster": "Walker, Harris & Co.",
+    "backpack": "Hana-U Corporation",
+    "gloves": "Yaahl Gear",
+    "kneepads": "Eclipse Protocol",
+    "icon": "https://imgur.com/0K0rsmJ.png"
+  },
+  "Future Initiative": {
+    "brand": "Future Initiative",
+    "mask": "Yaahl Gear",
+    "chest": "Murakami Industries",
+    "holster": "Wyvern Wear",
+    "backpack": "Murakami Industries",
+    "gloves": "Aces & Eights",
+    "kneepads": "Foundry Bulwark",
+    "icon": "https://imgur.com/pXUs5Rs.png"
+  },
+  "Foundry Bulwark": {
+    "brand": "Foundry Bulwark",
+    "mask": "Aces & Eights",
+    "chest": "Overlord Armaments",
+    "holster": "Yaahl Gear",
+    "backpack": "Overlord Armaments",
+    "gloves": "Eclipse Protocol",
+    "kneepads": "Future Initiative",
+    "icon": "https://imgur.com/1lY9p5g.png"
+  },
+  "Hunter's Fury": {
+    "brand": "Hunter's Fury",
+    "mask": "Eclipse Protocol",
+    "chest": "Petrov Defense Group",
+    "holster": "Aces & Eights",
+    "backpack": "Petrov Defense Group",
+    "gloves": "Foundry Bulwark",
+    "kneepads": "Hard Wired",
+    "icon": "https://imgur.com/IIsCG4Q.png"
+  },
+  "Umbra Initiative": {
+    "brand": "Umbra Initiative",
+    "mask": "Foundry Bulwark",
+    "chest": "Providence Defense",
+    "holster": "Eclipse Protocol",
+    "backpack": "Providence Defense",
+    "gloves": "Future Initiative",
+    "kneepads": "Heartbreaker",
+    "icon": "https://imgur.com/TonHYDf.png"
+  },
+  "Rigger": {
+    "brand": "Rigger",
+    "mask": "Future Initiative",
+    "chest": "Richter & Kaiser GmbH",
+    "holster": "Foundry Bulwark",
+    "backpack": "Richter & Kaiser GmbH",
+    "gloves": "Hard Wired",
+    "kneepads": "Hotshot",
+    "icon": "https://imgur.com/pXcna2V.png"
+  },
+  "Hotshot": {
+    "brand": "Hotshot",
+    "mask": "Hard Wired",
+    "chest": "Sokolov Concern",
+    "holster": "Future Initiative",
+    "backpack": "Sokolov Concern",
+    "gloves": "Heartbreaker",
+    "kneepads": "Hunter's Fury",
+    "icon": "https://imgur.com/HKIqtTz.png"
+  },
+  "Improvised": {
+    "brand": "Improvised",
+    "mask": "Heartbreaker",
+    "chest": "Uzina Getica",
+    "holster": "Hard Wired",
+    "backpack": "Uzina Getica",
+    "gloves": "Hotshot",
+    "kneepads": "Negotiator's Dilemma",
+    "icon": "https://imgur.com/ePtDfX2.png"
+  },
+  "The Hollow Man": {
+    "brand": "The Hollow Man",
+    "mask": "Hunter's Fury",
+    "chest": "Walker, Harris & Co.",
+    "holster": "Heartbreaker",
+    "backpack": "Walker, Harris & Co.",
+    "gloves": "Hunter's Fury",
+    "kneepads": "Ongoing Directive",
+    "icon": "https://imgur.com/8LZGBtg.png"
+  },
+  "Night Watcher": {
+    "brand": "Night Watcher",
+    "mask": "Hotshot",
+    "chest": "Wyvern Wear",
+    "holster": "Hotshot",
+    "backpack": "Wyvern Wear",
+    "gloves": "Negotiator's Dilemma",
+    "kneepads": "Rigger",
+    "icon": "https://imgur.com/0o599c6.png"
+  },
+  "Punch Drunk": {
+    "brand": "Punch Drunk",
+    "mask": "Negotiator's Dilemma",
+    "chest": "Yaahl Gear",
+    "holster": "Hunter's Fury",
+    "backpack": "Yaahl Gear",
+    "gloves": "Ongoing Directive",
+    "kneepads": "Striker's Battlegear",
+    "icon": "https://imgur.com/GQCp9sM.png"
+  },
+  "Vedmedytsya": {
+    "brand": "Vedmedytsya",
+    "mask": "Ongoing Directive",
+    "chest": "Aces & Eights",
+    "holster": "Negotiator's Dilemma",
+    "backpack": "Aces & Eights",
+    "gloves": "Rigger",
+    "kneepads": "System Corruption",
+    "icon": "https://imgur.com/N64w1Gk.png"
+  },
+  "Everyday Carrier": {
+    "brand": "Everyday Carrier",
+    "mask": "Rigger",
+    "chest": "Eclipse Protocol",
+    "holster": "Ongoing Directive",
+    "backpack": "Eclipse Protocol",
+    "gloves": "Striker's Battlegear",
+    "kneepads": "The Cavalier",
+    "icon": "https://imgur.com/AKHndoc.png"
+  },
+  "The Sacrifice": {
+    "brand": "The Sacrifice",
+    "mask": "Striker's Battlegear",
+    "chest": "Foundry Bulwark",
+    "holster": "Rigger",
+    "backpack": "Foundry Bulwark",
+    "gloves": "System Corruption",
+    "kneepads": "Tip of the Spear",
+    "icon": "https://imgur.com/0iigFnl.png"
+  },
+  "Caesar's Guard": {
+    "brand": "Caesar's Guard",
+    "mask": "System Corruption",
+    "chest": "Future Initiative",
+    "holster": "Striker's Battlegear",
+    "backpack": "Future Initiative",
+    "gloves": "The Cavalier",
+    "kneepads": "True Patriot",
+    "icon": "https://imgur.com/2aEVx7l.png"
+  },
+  "Zero F's": {
+    "brand": "Zero F's",
+    "mask": "The Cavalier",
+    "chest": "Hard Wired",
+    "holster": "System Corruption",
+    "backpack": "Hard Wired",
+    "gloves": "Tip of the Spear",
+    "kneepads": "Umbra Initiative",
+    "icon": "https://imgur.com/9oTt1ob.png"
+  },
+  "Chainkiller": {
+    "brand": "Chainkiller",
+    "mask": "Tip of the Spear",
+    "chest": "Heartbreaker",
+    "holster": "The Cavalier",
+    "backpack": "Heartbreaker",
+    "gloves": "True Patriot",
+    "kneepads": "Improvised Kneepads",
+    "icon": "https://imgur.com/x8fFUaJ.png"
+  },
+  "Door-Kicker's Knock": {
+    "brand": "Door-Kicker's Knock",
+    "mask": "True Patriot",
+    "chest": "Hotshot",
+    "holster": "Tip of the Spear",
+    "backpack": "Hotshot",
+    "gloves": "Umbra Initiative",
+    "kneepads": null,
+    "icon": "https://imgur.com/w2ldYtE.png"
+  },
+  "Hunter-Killer": {
+    "brand": "Hunter-Killer",
+    "mask": "Umbra Initiative",
+    "chest": "Hunter's Fury",
+    "holster": "True Patriot",
+    "backpack": "Hunter's Fury",
+    "gloves": "Improvised Gloves",
+    "kneepads": null,
+    "icon": "https://imgur.com/56oI8CR.png"
+  },
+  "Ferocious Calm": {
+    "brand": "Ferocious Calm",
+    "mask": null,
+    "chest": "Negotiator's Dilemma",
+    "holster": "Umbra Initiative",
+    "backpack": "Negotiator's Dilemma",
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/S0siLGa.png"
+  },
+  "Pristine Example": {
+    "brand": "Pristine Example",
+    "mask": null,
+    "chest": "Ongoing Directive",
+    "holster": "Improvised Holster",
+    "backpack": "Ongoing Directive",
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/VAgrPoZ.png"
+  },
+  "Pointman": {
+    "brand": "Pointman",
+    "mask": null,
+    "chest": "Rigger",
+    "holster": null,
+    "backpack": "Rigger",
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/0o599c6.png"
+  },
+  "Claws Out": {
+    "brand": "Claws Out",
+    "mask": null,
+    "chest": "Striker's Battlegear",
+    "holster": null,
+    "backpack": "Striker's Battlegear",
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/wryyKU4.png"
+  },
+  "Ammo Dump Holster": {
+    "brand": "Ammo Dump Holster",
+    "mask": null,
+    "chest": "System Corruption",
+    "holster": null,
+    "backpack": "System Corruption",
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/9oTt1ob.png"
+  },
+  "Picaro's Holster": {
+    "brand": "Picaro's Holster",
+    "mask": null,
+    "chest": "The Cavalier",
+    "holster": null,
+    "backpack": "The Cavalier",
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/eNrI2Cf.png"
+  },
+  "Forge": {
+    "brand": "Forge",
+    "mask": null,
+    "chest": "Tip of the Spear",
+    "holster": null,
+    "backpack": "Tip of the Spear",
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/u2VeQAJ.png"
+  },
+  "Anarchist's Cookbook": {
+    "brand": "Anarchist's Cookbook",
+    "mask": null,
+    "chest": "True Patriot",
+    "holster": null,
+    "backpack": "True Patriot",
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/56oI8CR.png"
+  },
+  "The Gift": {
+    "brand": "The Gift",
+    "mask": null,
+    "chest": "Umbra Initiative",
+    "holster": null,
+    "backpack": "Umbra Initiative",
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/0iigFnl.png"
+  },
+  "Strategic Alignment": {
+    "brand": "Strategic Alignment",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/tqxUOA4.png"
+  },
+  "Devil's Due": {
+    "brand": "Devil's Due",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/Lfc0IBi.png"
+  },
+  "Percussive Maintenance": {
+    "brand": "Percussive Maintenance",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/goxOzn7.png"
+  },
+  "Battery Pack": {
+    "brand": "Battery Pack",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/2aEVx7l.png"
+  },
+  "Force Multiplier": {
+    "brand": "Force Multiplier",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/hlhNlX4.png"
+  },
+  "Matador": {
+    "brand": "Matador",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/x8fFUaJ.png"
+  },
+  "Hermano": {
+    "brand": "Hermano",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/eNrI2Cf.png"
+  },
+  "Liquid Engineer": {
+    "brand": "Liquid Engineer",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/AKHndoc.png"
+  },
+  "Contractor's Gloves": {
+    "brand": "Contractor's Gloves",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/N64w1Gk.png"
+  },
+  "Deathgrips": {
+    "brand": "Deathgrips",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/QjXxYFz.png"
+  },
+  "Firm Handshake": {
+    "brand": "Firm Handshake",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/e6Xy8ok.png"
+  },
+  "Motherly Love": {
+    "brand": "Motherly Love",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/goxOzn7.png"
+  },
+  "Emperor's Guard": {
+    "brand": "Emperor's Guard",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/0VVNFGL.png"
+  },
+  "Fox's Prayer": {
+    "brand": "Fox's Prayer",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/4TKwj4N.png"
+  },
+  "Coyote's Mask": {
+    "brand": "Coyote's Mask",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/NYmbsOA.png"
+  },
+  "Vile": {
+    "brand": "Vile",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/CeZpN4K.png"
+  },
+  "Tardigrade": {
+    "brand": "Tardigrade",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/c7UvUob.png"
+  },
+  "Ridgeway's Pride": {
+    "brand": "Ridgeway's Pride",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/c7UvUob.pngg"
+  },
+  "Imperial Dynasty": {
+    "brand": "Imperial Dynasty",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/qW9O3PZ.png"
+  },
+  "Waveform": {
+    "brand": "Waveform",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/CYynTJv.png"
+  },
+  "Dodge City": {
+    "brand": "Dodge City",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/GCRytGL.png"
+  },
+  "Acosta's Go Bag": {
+    "brand": "Acosta's Go Bag",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/xjp48X5.png"
+  },
+  "Memento": {
+    "brand": "Memento",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/TFl6MAC.png"
+  },
+  "BTSU Data Gloves": {
+    "brand": "BTSU Data Gloves",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/olDa75v.png"
+  },
+  "Bloody Knuckles": {
+    "brand": "Bloody Knuckles",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/3y0PhR5.png"
+  },
+  "Sawyer's Kneepads": {
+    "brand": "Sawyer's Kneepads",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/YdEder5.png"
+  },
+  "NinjaBike Kneepads": {
+    "brand": "NinjaBike Kneepads",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/0tGzxeG.png"
+  },
+  "Chill Out": {
+    "brand": "Chill Out",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/0o599c6.png"
+  },
+  "Uzina Getica": {
+    "brand": "Uzina Getica",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/QUISMzs.png"
+  },
+  "Heartbreaker": {
+    "brand": "Heartbreaker",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/6lPlxzS.png"
+  },
+  "Closer": {
+    "brand": "Closer",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/QUISMzs.png"
+  },
+  "The Setup": {
+    "brand": "The Setup",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/QUISMzs.png"
+  },
+  "Habsburg Guard": {
+    "brand": "Habsburg Guard",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/4IL728W.png"
+  },
+  "Catharsis": {
+    "brand": "Catharsis",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/bzMvCCF.png"
+  },
+  "NinjaBike Backpack": {
+    "brand": "NinjaBike Backpack",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/PRey8tU.png"
+  },
+  "Electrique": {
+    "brand": "Electrique",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/BYXEQzv.png"
+  },
+  "Shocker Punch": {
+    "brand": "Shocker Punch",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/ClALL43.png"
+  },
+  "The Cavalier": {
+    "brand": "The Cavalier",
+    "mask": null,
+    "chest": null,
+    "holster": null,
+    "backpack": null,
+    "gloves": null,
+    "kneepads": null,
+    "icon": "https://imgur.com/mrGC10w.png"
+  }
+}
